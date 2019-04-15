@@ -1,0 +1,63 @@
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\bin\Debug\netcoreapp2.1\SignalR.deps.json
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\bin\Debug\netcoreapp2.1\SignalR.runtimeconfig.json
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\bin\Debug\netcoreapp2.1\SignalR.runtimeconfig.dev.json
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\bin\Debug\netcoreapp2.1\SignalR.dll
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\bin\Debug\netcoreapp2.1\SignalR.pdb
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\bin\Debug\netcoreapp2.1\SignalR.Views.dll
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\bin\Debug\netcoreapp2.1\SignalR.Views.pdb
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.csprojAssemblyReference.cache
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.csproj.CoreCompileInputs.cache
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorAssemblyInfo.cache
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorAssemblyInfo.cs
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.AssemblyInfoInputs.cache
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.AssemblyInfo.cs
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.TagHelpers.input.cache
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.TagHelpers.output.cache
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorCoreGenerate.cache
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorTargetAssemblyInfo.cache
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorTargetAssemblyInfo.cs
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.Views.pdb
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.dll
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.pdb
+C:\Users\m1049157\Documents\VStudio\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.csproj.CopyComplete
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\bin\Debug\netcoreapp2.1\SignalR.deps.json
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\bin\Debug\netcoreapp2.1\SignalR.runtimeconfig.json
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\bin\Debug\netcoreapp2.1\SignalR.runtimeconfig.dev.json
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\bin\Debug\netcoreapp2.1\SignalR.dll
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\bin\Debug\netcoreapp2.1\SignalR.pdb
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\bin\Debug\netcoreapp2.1\SignalR.Views.dll
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\bin\Debug\netcoreapp2.1\SignalR.Views.pdb
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.csproj.CoreCompileInputs.cache
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorAssemblyInfo.cache
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorAssemblyInfo.cs
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.AssemblyInfoInputs.cache
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.AssemblyInfo.cs
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.TagHelpers.input.cache
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.TagHelpers.output.cache
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorCoreGenerate.cache
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorTargetAssemblyInfo.cache
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorTargetAssemblyInfo.cs
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.Views.pdb
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.dll
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.pdb
+C:\Users\m1049157\Documents\VStudio\SignalR Solution\SignalR\SignalR\obj\Debug\netcoreapp2.1\SignalR.csproj.CopyComplete
